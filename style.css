@@ -1,0 +1,589 @@
+.container1 {
+  display: flex;
+  background-color: #f1f1f1;
+ 
+}
+
+ .container1 > div {
+  background-image: url("food6.jpg");
+  background-size: 100% 100vh;
+  background-repeat: no-repeat;
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  width: 100%;
+  height: 92vh;
+   justify-content: center;
+   font-family: 'Rufina';
+
+  }
+  @media screen and (min-width: 769px) {
+    .container1 > div{
+    height: 500px;
+
+ }
+
+}
+
+
+  
+  .container2{
+
+    display: flex;
+    background-color: #f1f1f1;
+  }
+  .container2 > div{
+    background-color: #f1f1f1;
+     margin: 10px;
+     padding: 20px;
+     width: 100%;
+     height: 10rem;
+font-family: 'Rufina';
+  }
+  .container3{
+    display: flex;
+    background-color: #f1f1f1;
+  }
+  .container3 > div{
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+    height: 5rem;
+    background-color: #f1f1f1;
+    font-family: 'Rufina';
+  }
+  .container4{
+    display: flex;
+    background-color: #f1f1f1;
+  }
+  .container4 > div{
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+    height: 10rem;
+    background-color: #f1f1f1;
+    font-family: 'Rufina';
+
+  }
+  .container5{
+    display: flex;
+    background-color: #f1f1f1;
+  }
+  .container5 > div{
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+    height: 5rem;
+    background-color: #f1f1f1;
+    font-family: 'Rufina';
+
+  }
+  .container6{
+    display: flex;
+    background-color: #f1f1f1;
+
+  }
+  .container6 > div{
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+    height: 40rem;
+    background-color: #f1f1f1;
+    font-family: 'Rufina';
+  }
+  .container7{
+    display: flex;
+    background-color:#f1f1f1 ;
+  }
+  .container7 > div{
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+    height: 5rem;
+    background-color: #f1f1f1;
+    font-family: 'Rufina';
+  }
+  .container8{
+    display: flex;
+    background-color: #f1f1f1;
+  }
+  .container8 > div{
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+    height: 13rem;
+    background-color: #f1f1f1;
+    font-family: 'Rufina';
+  }
+  .container9{
+    display: flex;
+    background-color: #EBF0E4;
+  }
+  .container9 > div{
+         margin: 10px;
+    padding: 20px;
+    width: 100%;
+    height: 10rem;
+    background-color:  #EBF0E4;
+    font-family: 'Rufina';
+
+
+  }
+  .container10{
+    display: flex;
+    background-color: #EBF0E4;
+  }
+  .container10 > div{
+          margin: 10px;
+    padding: 20px;
+    width: 100%;
+    height: 3rem;
+    background-color:  #EBF0E4;
+    font-family: 'Rufina';
+
+  }
+  .container11{
+    display: flex;
+    background-color: #EBF0E4;
+  }
+  .container11 > div{
+
+      margin: 10px;
+    padding: 20px;
+    width: 100%;
+    height: 5rem;
+    background-color:  #EBF0E4;
+    font-family: 'Rufina';
+
+
+
+
+  }
+  .container12{
+    display: flex;
+    background-color: #10381F;
+
+  }
+  .container12 > div{
+        
+        margin: 10px;
+    padding: 20px;
+    width: 100%;
+    height: 20rem;
+    background-color: #10381F ;
+    font-family: 'Rufina';
+
+  }
+  .container13{
+      display:flex;
+      background-color: #10381F;
+  }
+  .container13 > div{
+    margin: 1px;
+    padding: 1px;
+    width: 100%;
+    height: 1rem;
+    background-color: #10381F ;
+    font-family: 'Rufina';
+
+
+
+  }
+  .container14{
+    display: flex;
+    background-color: #10381F;
+  }
+  .container14 > div{
+    margin: 1px;
+    padding: 1px;
+    width: 100%;
+    height: 5rem;
+    background-color: #10381F ;
+    font-family: 'Rufina';
+
+  }
+  .name{
+    color: white;
+    font-size: 1.5rem;
+    position: absolute;
+    left: 35%;
+    top: 5%;
+    font-family: 'Rufina';
+
+  
+  }
+  .viewour{
+       color: white;
+       font-size: 4rem;
+       position: absolute;
+       top: 10rem;
+       left: 6rem;
+       font-family: 'Rufina';
+    
+
+
+  }
+  .fresh{
+    color: white;
+    font-size: 1.5rem;
+    font-family: 'Rufina';
+  }
+  .menuButtons{
+     position: relative;
+
+     
+     left: 3rem;
+     top: 1rem;
+     background-color:  #EBF0E4 ;
+    border: none;
+    width: 4rem;
+    height: 2rem;
+    font-family: 'Rufina';
+}
+.menuButtons:hover{
+  background-color: #dee6d3;
+  color: yellow;
+}
+.navibutton1:hover{
+  
+  color: yellow;
+}
+.navibutton2:hover{
+  
+  color: yellow;
+}
+.navibutton3:hover{
+  
+  color: yellow;
+}
+.subscribe:hover{
+  background-color: #dee6d3;
+  color: yellow;
+}
+#icons1:hover{
+  
+  color: yellow;
+}
+#icons2:hover{
+  
+  color: yellow;
+}
+#icons3:hover{
+  
+  color: yellow;
+}
+#icons4:hover{
+  
+  color: yellow;
+}
+#icons5:hover{
+  
+  color: yellow;
+}
+.book-now:hover{
+  background-color: #dee6d3;
+  color: yellow;
+
+}
+
+  .Entrees{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Rufina';
+  }
+  .under-entrees{
+    text-align: center;
+    font-size: 0.5rem;
+    font-family: 'Rufina';
+  }
+  hr {
+  border: none;
+  border-top: 1px dotted #f00;
+  color:;
+  background-color: ;
+  height: 1px;
+  width: 50%;
+}
+.line {
+  margin:5px 0;
+  height:20px;
+  background:
+    
+    repeating-linear-gradient(to right,black 0,black 10px,transparent 10px,transparent 12px) bottom;
+  background-size:100% 2px;
+  background-repeat:no-repeat;
+  position: relative;
+  
+  bottom: 1rem;
+}
+.line1 {
+  margin:5px 0;
+  height:20px;
+  background:
+    
+    repeating-linear-gradient(to right,white 0,white 10px,transparent 10px,transparent 12px) bottom;
+  background-size:100% 2px;
+  background-repeat:no-repeat;
+  position: relative;
+  
+  bottom: 1rem;
+}
+
+.left1{
+    font-size: 2rem;
+}
+@media (max-width: 300px) {
+    .container2 {
+        flex-direction: column;    
+    }
+    #right-content {
+        display: flex;
+    }
+
+    section {
+        flex: 1;   
+    }
+}
+.left2{
+     text-align: right;
+     position: relative;
+     bottom: 2.5rem;
+     font-size: 2rem;
+     font-family: 'Rufina';
+
+
+}
+.under-item{
+    color: #4D4D4D;
+    font-size: 0.5rem;
+    font-family: 'Rufina';
+}
+.make-a-reservation{
+    text-align: center;
+    position: relative;
+    top: 3rem;
+    font-size: 2.5rem;
+    font-family: 'Rufina';
+
+
+}
+.get-in-touch{
+    text-align: center;
+
+    color: #4D4D4D;
+    font-size: 1rem;
+    font-family: 'Rufina';
+}
+.date{
+    position: relative;
+    left: 2rem;
+    height: 2rem;
+    width: 8rem;
+    font-family: 'Rufina';
+}
+.time{
+    position: relative;
+    left: 5rem;
+    height: 2rem;
+    width: 8rem;
+    font-family: 'Rufina';
+}
+.person{
+    position: relative;
+    left: 4rem;
+    height: 2rem;
+    width: 8rem;
+    font-family: 'Rufina';
+}
+.book-now{
+     position: relative;
+    left: 4rem;
+    top: 2rem;
+    width: 8rem;
+    height: 2rem;
+    border:none ;
+    color: white;
+    background-color: #10381F;
+    font-family: 'Rufina';
+
+
+}
+.logo{
+    width: 10rem;
+    height: 9rem;
+    position: relative;
+    left: 1rem;
+    top: 1.5rem;
+
+
+
+
+}
+.contact-para{
+
+    text-align: right;
+    position: relative;
+    bottom: 8rem;
+    color: white;
+    font-family: 'Rufina';
+}
+.Never-miss-a-recipe{
+
+
+    color: white;
+    position: relative;
+    top: 3rem;
+    font-family: 'Rufina';
+    
+}
+.Email{
+   border-color: white;
+   
+   height: 2.5rem;
+   width: 13rem;
+   background-color: #10381F;
+   font-family: 'Rufina';
+  }
+::placeholder{
+  color: white;
+}
+.subscribe{
+  border: none;
+  background-color: #F89938;
+  color: white;
+  position: relative;
+  left: 1rem;
+  height: 2.3rem;
+  width: 7rem ;
+  font-family: 'Rufina';
+}
+.join{
+    color: white;
+    font-size: 0.5rem;
+}
+.navibutton2{
+     position: relative;
+     left:3rem;
+     border: none;
+     background-color: #10381F;
+     color: white;
+
+}
+.navibutton1{
+  position: relative;
+  left:5rem;
+  border: none;
+  background-color: #10381F;
+  color: white;
+}
+.navibutton3{
+  border: none;
+  background-color: #10381F;
+  color: white;
+}
+.copyright{
+
+  font-size: 1rem;
+  color:white;
+  position: relative;
+  left:5rem;
+}
+
+#icons1{
+  color:white;
+}
+#icons2{
+  color:white;
+}
+#icons3{
+  color:white;
+}
+#icons4{
+  color:white;
+}
+#icons5{
+  color:white;
+}
+.icons-at-end{
+
+  text-align: right;
+
+
+
+}
+.icons-at-top{
+
+  text-align: right;
+  position: relative;
+  bottom: 5rem;
+
+
+}
+.menuicon{
+     text-align: left;
+     position: relative;
+     bottom:2rem;
+
+
+}
+
+@import "compass/css3";
+
+.datedesign{
+  width: 200px;
+  height: 100px;
+  margin: 0 auto;
+}
+input[type=date] {
+  height: 35px;
+  margin: 0 auto;
+  width: 100%;
+  font-family: arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: white;
+  outline: none;
+  border: 0;
+  border-radius: 3px;
+  padding: 0 3px;
+  color: black;
+&::-webkit-clear-button {
+    font-size: 18px;
+    height: 30px;
+    position: relative;
+    right: 5px;
+    margin-right: 4px;
+  }
+  &::-webkit-inner-spin-button {
+    height: 30px;
+  }
+  &::-webkit-calendar-picker-indicator {
+    font-size: 18px;
+    
+        
+    &:hover {
+      background-color: lighten(#2f2f2f,40%);
+      color: darken(#fff, 10%);
+      cursor: pointer;
+    }
+    &:active {
+      color: blue;
+    }
+  }
+}
+input[type="time"]{
+    input[type="time"]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+    cursor:pointer;
+    display: block;
+    width:20px;
+    color: red;
+    text-align:center;
+    position:relative;
+}
+}
+
+
+
